@@ -123,6 +123,7 @@ body {
   opacity: 0.6;
 }
 .aaa p {
+  paddingtop:90px;
   font-size: 0.5rem;
   font-weight: 300;
   opacity: 0.3;
